@@ -1,0 +1,18 @@
+name: tftext
+dependencies:
+  - python=3.10
+  - jupyter
+  - IPython
+  - pandas
+  - numpy
+  - nbconvert
+  - jupyterlab
+  - nltk
+  - pip
+  - pip:
+    - plotnine
+    - tqdm
+    - scipy
+    - tensorflow
+    - tensorboard
+
